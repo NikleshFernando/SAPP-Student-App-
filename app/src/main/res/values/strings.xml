@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StudentManagementAPK</string>
+    <string-array name="specialization">
+        <item>Information Technology</item>
+        <item>Software Engineering</item>
+        <item>Data Science</item>
+        <item>Interactive Media</item>
+        <item>Computer Science</item>
+    </string-array>
+    <string-array name="academicYear">
+        <item>Year 1</item>
+        <item>Year 2</item>
+        <item>Year 3</item>
+        <item>Year 4</item>
+    </string-array>
+    <string-array name="semester">
+        <item>Semester 1</item>
+        <item>Semester 2</item>
+    </string-array>
+
+
+</resources>
